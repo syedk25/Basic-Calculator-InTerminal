@@ -10,3 +10,5 @@ About Project :
 Output : will be show in terminal
 
 (note: if you want this code just copy and past no additional setep needed)
+
+i am syed da!
